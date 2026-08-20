@@ -8,9 +8,9 @@ const translations = {
     },
     nav: {home:"Início",about:"Sobre",how:"Como Funciona",services:"Serviços",results:"Resultados",contact:"Contato",talk:"Falar com Jozy"},
     hero:{
-      tag:"NUTRIÇÃO • SAÚDE • RESULTADOS",
+      tag:"NUTRIÇÃO • HÁBITOS • TRANSFORMAÇÃO",
       title:'Sua melhor versão começa com <span>hábitos que você consegue manter.</span>',
-      description:"Acompanhamento nutricional personalizado para quem deseja melhorar a alimentação, criar hábitos mais saudáveis e alcançar resultados reais sem transformar a rotina em uma guerra contra a comida.",
+      description:"Acompanhamento nutricional personalizado para quem deseja emagrecer, ganhar massa muscular ou melhorar a definição corporal, com estratégias adaptadas à sua rotina e aos seus objetivos.",
       primary:"Começar minha transformação",secondary:"Conhecer o acompanhamento",
       check1:"Atendimento personalizado",check2:"Estratégias adaptadas à sua rotina",check3:"Acompanhamento próximo",check4:"Foco em hábitos sustentáveis",
       float1:"Plano personalizado",floatSub1:"feito para a sua rotina",float2:"Hábitos sustentáveis",floatSub2:"passos que cabem na vida real",float3:"Acompanhamento próximo",floatSub3:"orientação ao longo do processo",highlight:"Seu plano. Sua rotina. Seus objetivos."
@@ -34,9 +34,9 @@ const translations = {
     seo:{title:"Jozy Nutrition Coach | Healthy habits for real life",description:"Personalized nutrition coaching with Jozy to help you build healthier habits, improve your routine and create sustainable lifestyle changes."},
     nav:{home:"Home",about:"About",how:"How It Works",services:"Services",results:"Results",contact:"Contact",talk:"Talk to Jozy"},
     hero:{
-      tag:"NUTRITION • HEALTH • RESULTS",
+      tag:"NUTRITION • HABITS • TRANSFORMATION",
       title:'Your best version starts with <span>habits you can actually maintain.</span>',
-      description:"Personalized nutrition coaching for people who want to improve their eating habits, build a healthier lifestyle and achieve real results without turning food into a daily struggle.",
+      description:"Personalized nutrition coaching for people who want to lose weight, gain muscle mass, or improve body definition, with strategies adapted to their routine and goals.",
       primary:"Start my transformation",secondary:"Discover the coaching",
       check1:"Personalized guidance",check2:"Strategies adapted to your lifestyle",check3:"Ongoing support",check4:"Focus on sustainable habits",
       float1:"Personalized plan",floatSub1:"built around your routine",float2:"Sustainable habits",floatSub2:"steps that work in real life",float3:"Ongoing support",floatSub3:"guidance throughout the process",highlight:"Your plan. Your routine. Your goals."
