@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#1b0f0a"/><stop offset="1" stop-color="#4a2b1b"/></linearGradient></defs>
+<rect width="1200" height="630" fill="url(#g)"/>
+<circle cx="980" cy="150" r="240" fill="#d7b071" opacity=".10"/>
+<circle cx="250" cy="590" r="290" fill="#a86e3f" opacity=".08"/>
+<text x="90" y="245" fill="#d7b071" font-family="Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="9">NUTRITION COACH</text>
+<text x="90" y="355" fill="#fff" font-family="Arial,sans-serif" font-size="96" font-weight="800" letter-spacing="8">JOZY</text>
+<text x="90" y="420" fill="#d6c2aa" font-family="Arial,sans-serif" font-size="30">Hábitos saudáveis para a vida real.</text>
+</svg>

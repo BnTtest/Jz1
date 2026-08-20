@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#173a25"/>
+    <stop offset=".55" stop-color="#0d2116"/>
+    <stop offset="1" stop-color="#1b0f0a"/>
+  </linearGradient>
+  <radialGradient id="glow">
+    <stop offset="0" stop-color="#65f392" stop-opacity=".4"/>
+    <stop offset="1" stop-color="#65f392" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect width="900" height="1100" fill="url(#bg)"/>
+<circle cx="450" cy="420" r="300" fill="url(#glow)"/>
+<circle cx="450" cy="355" r="175" fill="#214d32"/>
+<path d="M185 1020c25-265 135-413 265-413s240 148 265 413" fill="#1b432b"/>
+<path d="M354 315c15-86 57-130 96-130 43 0 84 45 98 130" fill="#10271a"/>
+<circle cx="390" cy="350" r="11" fill="#d7b071"/>
+<circle cx="510" cy="350" r="11" fill="#d7b071"/>
+<path d="M405 430c30 25 60 25 90 0" fill="none" stroke="#d7b071" stroke-width="10" stroke-linecap="round"/>
+<text x="450" y="875" text-anchor="middle" fill="#e9f7ed" font-family="Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="10">JOZY</text>
+<text x="450" y="927" text-anchor="middle" fill="#9eb5a4" font-family="Arial, sans-serif" font-size="23" letter-spacing="6">SUA FOTO AQUI</text>
+</svg>
