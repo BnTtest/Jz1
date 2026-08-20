@@ -156,7 +156,7 @@ html[data-theme="light"] .sun { transform: translateY(0); opacity:1; }
   background:linear-gradient(180deg, rgba(215,176,113,.09), rgba(27,15,10,.12));
   box-shadow: inset 0 0 70px rgba(215,176,113,.07), 0 35px 90px rgba(0,0,0,.32);
 }
-.portrait-shell img { width:100%; height:100%; object-fit:cover; object-position:52% center; filter:saturate(.82) sepia(.08) contrast(.98); }
+.portrait-shell img { width:100%; height:100%; object-fit:cover; object-position:52% 38%; filter:saturate(.88) sepia(.06) contrast(.98); }
 .portrait-gradient { position:absolute; inset:auto 0 0; height:34%; background:linear-gradient(transparent, var(--bg)); }
 .floating-card {
   position:absolute; display:flex; align-items:center; gap:11px; padding:11px 14px; border-radius:15px;
