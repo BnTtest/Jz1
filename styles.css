@@ -181,8 +181,8 @@ html[data-theme="light"] .sun { transform: translateY(0); opacity:1; }
 
 .about-grid { display:grid; grid-template-columns:.85fr 1.15fr; gap:90px; align-items:center; }
 .about-visual { position:relative; min-height:560px; }
-.about-photo { position:absolute; inset:0 11% 0 0; overflow:hidden; border-radius:120px 28px 120px 28px; border:1px solid var(--line); background:var(--surface); }
-.about-photo img { width:100%; height:100%; object-fit:cover; object-position:54% center; filter:saturate(.8) sepia(.1) contrast(.97); }
+.about-photo { position:absolute; inset:0 11% 0 0; overflow:hidden; border-radius:120px 28px 120px 28px; border:1px solid var(--line); background:#f7e5d1; }
+.about-photo img { width:100%; height:100%; object-fit:contain; object-position:center; padding:12px; }
 .about-badge { position:absolute; right:0; bottom:48px; width:200px; padding:18px; background:var(--surface); border:1px solid var(--line); border-radius:20px; backdrop-filter:blur(16px); box-shadow:var(--shadow); display:flex; align-items:center; gap:13px; }
 .about-badge > span { width:52px; height:52px; border-radius:15px; display:grid; place-items:center; font-weight:900; font-size:20px; color:#3a2114; background:linear-gradient(135deg,#f2dfbf,var(--primary)); }
 .about-badge > span img { width:46px; height:42px; object-fit:contain; }
